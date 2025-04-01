@@ -1,2 +1,2 @@
 i=input().strip()
-print(int(i,16))
+print(int(i,17))
