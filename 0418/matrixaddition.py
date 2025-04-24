@@ -1,15 +1,14 @@
 
+N, M = map(int, input().split())
 num_list_a = []
 num_list_b = []
-N, M = map(int, input().split())
-
 
 
 for i in range(N):
-        num_list_a[i].append(int, input().split())
+        num_list_a.append(list(map(int, input().split())))
 
 for i in range(N):
-        num_list_b[i].append(int, input().split())
+        num_list_b.append(list(map(int, input().split())))
 
 
 result = [[0]*M for _ in range(N)]
