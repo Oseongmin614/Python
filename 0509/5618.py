@@ -6,7 +6,7 @@ numbers = list(map(int, input().split()))
 if n == 2:
     g = gcd(numbers[0], numbers[1])
 else:
-    g = gcd(numbers[0], gcd(numbers[1], numbers[2]))
+    g = gcd(numbers[0],gcd(numbers[1],numbers[2]))
 
 
 result = set()
