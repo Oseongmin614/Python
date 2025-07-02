@@ -1,0 +1,12 @@
+name:
+- mr_incredible
+- elatic_girl
+- dash
+- vioet
+nc: 4
+test: "C:/Users/User/Desktop/4.YOLO_\uC2E4\uC2DC\uAC04_\uAC1D\uCCB4_\uD0D0\uC9C0/\uB370\
+  \uC774\uD130/incredible_dataset/train/images"
+train: "C:/Users/User/Desktop/4.YOLO_\uC2E4\uC2DC\uAC04_\uAC1D\uCCB4_\uD0D0\uC9C0\
+  /\uB370\uC774\uD130/incredible_dataset/train/images"
+val: "C:/Users/User/Desktop/4.YOLO_\uC2E4\uC2DC\uAC04_\uAC1D\uCCB4_\uD0D0\uC9C0/\uB370\
+  \uC774\uD130/incredible_dataset/train/images"
