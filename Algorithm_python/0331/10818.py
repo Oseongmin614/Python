@@ -1,0 +1,5 @@
+n=int(input())
+i=map(int,input().split())
+minum=min(i)
+maxium=max(i)
+print(minum,maxium)
